@@ -1,0 +1,3 @@
+[submodule "NCVC.SDK"]
+	path = NCVC.SDK
+	url = https://github.com/NCVC-CAM/NCVC.SDK.git
